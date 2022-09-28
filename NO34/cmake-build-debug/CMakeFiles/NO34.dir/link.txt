@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/NO34.dir/main.cpp.o -o NO34 

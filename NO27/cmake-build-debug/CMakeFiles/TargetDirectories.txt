@@ -1,0 +1,3 @@
+/media/alex/Study/Clion_practice/Lcode/NO27/cmake-build-debug/CMakeFiles/NO27.dir
+/media/alex/Study/Clion_practice/Lcode/NO27/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/alex/Study/Clion_practice/Lcode/NO27/cmake-build-debug/CMakeFiles/rebuild_cache.dir

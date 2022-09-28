@@ -1,0 +1,3 @@
+D:\CLion\CLion-2021.2.3.win\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\NO35.dir/objects.a
+F:\Mingw\mingw64\bin\ar.exe cr CMakeFiles\NO35.dir/objects.a @CMakeFiles\NO35.dir\objects1.rsp
+F:\Mingw\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\NO35.dir/objects.a -Wl,--no-whole-archive -o NO35.exe -Wl,--out-implib,libNO35.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\NO35.dir\linklibs.rsp

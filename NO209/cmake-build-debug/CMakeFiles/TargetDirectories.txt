@@ -1,0 +1,3 @@
+/media/alex/Study/Clion_practice/Lcode/NO209/cmake-build-debug/CMakeFiles/NO209.dir
+/media/alex/Study/Clion_practice/Lcode/NO209/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/alex/Study/Clion_practice/Lcode/NO209/cmake-build-debug/CMakeFiles/rebuild_cache.dir

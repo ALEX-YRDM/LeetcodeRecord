@@ -1,0 +1,3 @@
+F:/Clion_practice/Lcode/No206/cmake-build-debug/CMakeFiles/No206.dir
+F:/Clion_practice/Lcode/No206/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Clion_practice/Lcode/No206/cmake-build-debug/CMakeFiles/rebuild_cache.dir

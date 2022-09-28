@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Clion_practice/Lcode/N0704_binarySearch/Solution.cpp
+Solution.h
+F:/Clion_practice/Lcode/N0704_binarySearch/Solution.h
+
+F:/Clion_practice/Lcode/N0704_binarySearch/Solution.h
+vector
+-
+
+F:/Clion_practice/Lcode/N0704_binarySearch/main.cpp
+iostream
+-
+Solution.h
+F:/Clion_practice/Lcode/N0704_binarySearch/Solution.h
+

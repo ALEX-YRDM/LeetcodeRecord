@@ -1,0 +1,4 @@
+/home/alex/Public/Clion/clion-2022.1.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/alex/Public/Clion/clion-2022.1.2/bin/ninja/linux/ninja -G Ninja -S /media/alex/Study/Clion_practice/Lcode/No203 -B /media/alex/Study/Clion_practice/Lcode/No203/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/alex/Study/Clion_practice/Lcode/No203/cmake-build-debug

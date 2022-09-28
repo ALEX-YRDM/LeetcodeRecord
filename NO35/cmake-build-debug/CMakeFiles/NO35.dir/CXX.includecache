@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Clion_practice/Lcode/NO35/Solution.h
+vector
+-
+
+F:/Clion_practice/Lcode/NO35/main.cpp
+iostream
+-
+Solution.h
+F:/Clion_practice/Lcode/NO35/Solution.h
+

@@ -1,0 +1,3 @@
+D:\CLion\CLion-2021.2.3.win\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\NO904.dir/objects.a
+F:\Mingw\mingw64\bin\ar.exe cr CMakeFiles\NO904.dir/objects.a @CMakeFiles\NO904.dir\objects1.rsp
+F:\Mingw\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\NO904.dir/objects.a -Wl,--no-whole-archive -o NO904.exe -Wl,--out-implib,libNO904.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\NO904.dir\linklibs.rsp
