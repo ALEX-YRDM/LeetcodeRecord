@@ -8,3 +8,4 @@
 * 2022,9,18 No209 Minimum size subarray Sum
 * 2022,9,22 No59 Spiral Matrix(II) No54 Spiral Matrix No203 remove linked list elements
 * 2022,9,25 No206 Reverse linked list
+* 2022,9,29 No24 Swap Nodes in pairs
