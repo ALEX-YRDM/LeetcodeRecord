@@ -9,3 +9,4 @@
 * 2022,9,22 No59 Spiral Matrix(II) No54 Spiral Matrix No203 remove linked list elements
 * 2022,9,25 No206 Reverse linked list
 * 2022,9,29 No24 Swap Nodes in pairs
+* 2022,9,30 No19 Remove Nth NodeFrom End of list. No160 Intersection of Two Linked Lists
